@@ -17,7 +17,7 @@ Ce projet est un générateur de clé secrète pour Django, conçu pour vous aid
 2. Assurez-vous d'avoir Python 3.x installé sur votre machine
 3. Installez les dépendances requises à l'aide de la commande `pip install -r requirements.txt`
 4. Lancez le serveur Django à l'aide de la commande `python manage.py runserver`
-5. Ouvrez votre navigateur et accédez à l'URL `http://localhost:8000/secret-key-generator/` pour accéder à l'interface utilisateur
+5. Ouvrez votre navigateur et accédez à l'URL `http://localhost:8000/` pour accéder à l'interface utilisateur
 
 ## À propos
 Notre générateur de clé secrète pour Django est conçu pour vous aider à générer facilement une clé secrète unique et aléatoire pour votre projet Django. Cette clé secrète est importante car elle est utilisée pour protéger les sessions utilisateur, les cookies et autres données sensibles dans votre application Django.
