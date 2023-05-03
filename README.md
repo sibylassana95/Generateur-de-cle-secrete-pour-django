@@ -48,7 +48,7 @@ Created by **[Lassana SIBY](https://github.com/sibylassana95)**
 ## Contribution
 
 Si vous souhaitez contribuer à ce projet, vous pouvez le faire en soumettant des pull requests ou en ouvrant des issues pour signaler des bugs ou proposer des améliorations.
-## 📝 LLicense
+## 📝 License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
